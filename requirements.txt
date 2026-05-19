@@ -4,5 +4,7 @@ aiogram
 pydantic
 asyncpg
 pydantic-settings
+sqlalchemy
+
 
 
