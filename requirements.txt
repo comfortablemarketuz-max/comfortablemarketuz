@@ -2,9 +2,13 @@ fastapi
 uvicorn
 aiogram
 pydantic
-asyncpg
 pydantic-settings
 sqlalchemy
+asyncpg
+psycopg2-binary
+requests
+python-multipart
+
 
 
 
